@@ -53,7 +53,7 @@
    ```
 8. Inicie o servidor de desenvolvimento do frontend:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Como Contribuir
