@@ -1,6 +1,3 @@
-Claro, aqui está o conteúdo completo do README.md para o projeto "Flower":
-
-```markdown
 # Flower 🌸
 
 **Flower** é um site de monitoramento e calculadora menstrual desenvolvido para ajudar os usuários a monitorar seus ciclos menstruais e calcular datas importantes com facilidade. A ideia do projeto surgiu a partir de um comentário da minha namorada sobre a necessidade de uma ferramenta mais intuitiva e confiável para essa finalidade.
@@ -23,7 +20,7 @@ Claro, aqui está o conteúdo completo do README.md para o projeto "Flower":
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/jeazy/flower.git
+   git clone https://github.com/Jeanikt/flower.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
@@ -87,6 +84,3 @@ Jean - [LinkedIn](https://www.linkedin.com/in/jeazy/)
 ---
 
 Sinta-se à vontade para contribuir, reportar issues ou dar feedback!
-```
-
-Este arquivo README.md contém todas as informações necessárias sobre o projeto Flower, incluindo a descrição, tecnologias utilizadas, funcionalidades, instruções de instalação, como contribuir, a licença e informações de contato.
